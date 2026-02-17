@@ -288,3 +288,12 @@ img {
         margin: 0 0 0.8rem;
     }
 }
+
+.footer {
+    background-color: hsl(244, 38%, 16%);
+    text-align: center;
+    padding: 1rem;
+    color: white; 
+    font-size: 0.8rem;
+    border-top: 1px solid hsl(277, 64%, 61%);
+}
